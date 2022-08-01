@@ -14,3 +14,4 @@ https://github.com/Andong-Li-speech/MDNet/blob/main/main.py
 https://arxiv.org/list/cs.SD/pastweek
 https://www.engadget.com/
 https://www.theverge.com/
+https://www.issacthomas.co.uk/
