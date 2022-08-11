@@ -1,0 +1,52 @@
+Google：
+Adapting Speech Separation Systems to Real-World Meetings Using Mixture Invariant Training
+Closing the Gap between Single-User and Multi-User VoiceFilter-Lite
+SNRi Target Training for Joint Speech Enhancement and Recognition
+DF-Conformer: Integrated architecture of Conv-TasNet and Conformer using linear complexity self-attention for speech enhancement
+Sequential Multi-Frame Neural Beamforming for Speech Separation and Enhancement
+SoundStream: An End-to-End Neural Audio Codec
+Sparse, Efficient, and Semantic MixIT: Taming In-the-Wild Unsupervised Sound Separation
+Personal VAD: Speaker-Conditioned Voice Activity Detection
+Sound source separation using phase difference and reliable mask selection
+Robust and low-complexity blind source separation for meeting rooms
+
+Amazon：
+On-device speech processing makes Alexa faster, lower-bandwidth
+“Ambient intelligence" will accelerate advances in general AI
+New Alexa feature enables natural, multiparty interactions
+How to make on-device speech recognition practical
+Asynchronous acoustic echo cancellation over wireless channels
+End-to-end neural diarization: From Transformer to Conformer
+How Amazon Chime's noise cancellation works
+Personalized PercepNet: Real-time, low-complexity target voice separation and enhancement
+Exploiting large-scale teacher-student training for on-device acoustic models
+Low-complexity, real-time joint neural echo control and speech enhancement based on Percepnet
+A perceptually motivated approach for low-complexity, real-time enhancement of fullband speech
+How Alexa knows when you’re talking to her
+Locating multiple sound sources from raw audio
+Using wake word acoustics to filter out background speech improves speech recognition by 15%
+Signal processor improves Echo’s bass response, loudness, and speech recognition accuracy
+Locating multiple sound sources from raw audio
+SIR Beam Selector for Amazon Echo Devices Audio Front-End
+MULTICHANNEL AUDIO FRONT-END FOR FAR-FIELD AUTOMATIC SPEECH RECOGNITION
+
+MS:
+Continuous Speech Separation with Recurrent Selective Attention Network
+Interactive sound simulation: Rendering immersive soundscapes in games and virtual reality
+Low complexity online convolutional beamforming
+Low-Latency Speaker-Independent Continuous Speech Separation
+Meeting Transcription Using Asynchronous Distant Microphones
+Online MVDR Beamformer Based on Complex Gaussian Mixture Model With Spatial Prior for Noise Robust ASR
+Human Listening and Live Captioning: Multi-Task Training for Speech Enhancement
+Joint beamforming and reverberation cancellation using a constrained Kalman filter with multichannel linear prediction
+Unsupervised Speech Enhancement
+Microsoft Soundscape: Heads-up and hands-free experiences for everyone
+Geometry-constrained Beamforming Network for end-to-end Farfield Sound Source Separation
+Blind Multi-Microphone Noise Reduction and Dereverberation Algorithms
+Applications of 3-Dimensional Spherical Transforms to Acoustics and Personalization of Head-related Transfer Functions (HRTFs)
+Microphone array signal processing: beyond the beamformer
+
+Apple:
+Apple Glass could make AR believable with accurate 3D audio
+Apple AR may record full spatial sound needing fewer microphones
+Challenges and Opportunities in Multi-device Speech Processing
