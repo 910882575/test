@@ -23,3 +23,5 @@ https://www.sounds-etn.eu/index.php/team
 https://mpegh.com/
 
 https://www.mpeg.org/standards/MPEG-D/
+
+https://github.com/adobe-research/MetaAF#meta-af-meta-learning-for-adaptive-filters
