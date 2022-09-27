@@ -25,3 +25,6 @@ https://mpegh.com/
 https://www.mpeg.org/standards/MPEG-D/
 
 https://github.com/adobe-research/MetaAF#meta-af-meta-learning-for-adaptive-filters
+
+Audio Quality and Its Impact on Sound and Music Processing
+
