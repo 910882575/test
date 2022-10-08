@@ -28,3 +28,5 @@ https://github.com/adobe-research/MetaAF#meta-af-meta-learning-for-adaptive-filt
 
 Audio Quality and Its Impact on Sound and Music Processing
 
+
+https://www.amazon.science/blog/the-science-behind-amazons-spatial-audio-processing-technology
