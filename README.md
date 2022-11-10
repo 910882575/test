@@ -32,6 +32,8 @@ https://www.theverge.com/
 
 https://www.issacthomas.co.uk/
 
+https://www.aboutamazon.com/news/devices/amazons-new-head-of-alexa-rohit-prasad?utm_source=SOCIAL&utm_medium=LINKEDIN&utm_term=amazon&utm_content=8068278471&linkId=188031461
+
 
 https://vimeo.com/729718666
 
